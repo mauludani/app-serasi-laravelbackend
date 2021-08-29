@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "61413659372",
+    "project_id": "serasi-40334",
+    "storage_bucket": "serasi-40334.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61413659372:android:a769fc6abdb0a244db4bc9",
+        "android_client_info": {
+          "package_name": "com.imajicreativa.serasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61413659372-u1a5kljagmp6av56lb8e3g6uka7rq49o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTCs8nQnERapLK95VNWHgfeF2Iz-8o_Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61413659372-u1a5kljagmp6av56lb8e3g6uka7rq49o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61413659372:android:2dbd14dd811b46bcdb4bc9",
+        "android_client_info": {
+          "package_name": "com.imajicreativa.trisakti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61413659372-u1a5kljagmp6av56lb8e3g6uka7rq49o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTCs8nQnERapLK95VNWHgfeF2Iz-8o_Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61413659372-u1a5kljagmp6av56lb8e3g6uka7rq49o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
